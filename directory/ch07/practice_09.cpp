@@ -34,6 +34,10 @@ int main()
 	return 0;
 }
 
+
+//The funciton solicits and stores data about students.
+//It terminates input upon filling the array or upon en-
+//countering a blank line for student name.
 int getinfo(student pa[], int n)
 {
 	int count = 0;
