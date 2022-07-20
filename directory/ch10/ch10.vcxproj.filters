@@ -1,0 +1,168 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="源文件\example">
+      <UniqueIdentifier>{9a1921e8-7b62-439c-be33-9211f85a7986}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\review">
+      <UniqueIdentifier>{1c2f54a4-ca9e-4395-a0f3-fe9efc407394}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\practice">
+      <UniqueIdentifier>{1f224d2b-fc20-4bd5-9985-214ca817521d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\example\example01">
+      <UniqueIdentifier>{87b59ed6-1010-4428-bb99-032850fe9eb6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\example\example02">
+      <UniqueIdentifier>{400c3873-2d5e-4bde-aef1-347fc72f052a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\example\example03">
+      <UniqueIdentifier>{b870cb16-05ea-4e2e-b385-ef80f785df93}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\example\example04">
+      <UniqueIdentifier>{ed26c705-c316-42bb-9f30-1af13a97ee3f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\practice\prac01">
+      <UniqueIdentifier>{d6bfc530-4b39-445f-ab6f-aa73b08d0634}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\practice\prac02">
+      <UniqueIdentifier>{03367dfd-903f-42cb-b1a3-6ca1fb6f11f2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\practice\prac03">
+      <UniqueIdentifier>{9daaf459-7ee1-4b67-8b95-4895d88fb4f7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\practice\prac04">
+      <UniqueIdentifier>{a508e59c-93d2-41a8-9129-371353d2d1e3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\practice\prac05">
+      <UniqueIdentifier>{9ae7b0a9-a95f-4ee0-91e9-5644ea48bb44}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\practice\prac06">
+      <UniqueIdentifier>{757ddaa0-4883-4c11-b142-ee57c7f443ec}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\practice\prac07">
+      <UniqueIdentifier>{f8761c77-a66e-4f75-acdd-42dee3d2b8fe}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\practice\prac08">
+      <UniqueIdentifier>{11ef43da-5730-434f-8323-dedcd129b5b0}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="stock00.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="stock10.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="stock20.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="stack.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="account.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="person.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="move.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="plorga.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="list.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="golf.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="sales.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="usestock1.cpp">
+      <Filter>源文件\example\example01</Filter>
+    </ClCompile>
+    <ClCompile Include="stock00.cpp">
+      <Filter>源文件\example\example01</Filter>
+    </ClCompile>
+    <ClCompile Include="usestock2.cpp">
+      <Filter>源文件\example\example02</Filter>
+    </ClCompile>
+    <ClCompile Include="stock10.cpp">
+      <Filter>源文件\example\example02</Filter>
+    </ClCompile>
+    <ClCompile Include="stock20.cpp">
+      <Filter>源文件\example\example03</Filter>
+    </ClCompile>
+    <ClCompile Include="usestock3.cpp">
+      <Filter>源文件\example\example03</Filter>
+    </ClCompile>
+    <ClCompile Include="stack.cpp">
+      <Filter>源文件\example\example04</Filter>
+    </ClCompile>
+    <ClCompile Include="stacker.cpp">
+      <Filter>源文件\example\example04</Filter>
+    </ClCompile>
+    <ClCompile Include="account.cpp">
+      <Filter>源文件\practice\prac01</Filter>
+    </ClCompile>
+    <ClCompile Include="useaccount.cpp">
+      <Filter>源文件\practice\prac01</Filter>
+    </ClCompile>
+    <ClCompile Include="person.cpp">
+      <Filter>源文件\practice\prac02</Filter>
+    </ClCompile>
+    <ClCompile Include="useperson.cpp">
+      <Filter>源文件\practice\prac02</Filter>
+    </ClCompile>
+    <ClCompile Include="customer.cpp">
+      <Filter>源文件\practice\prac05</Filter>
+    </ClCompile>
+    <ClCompile Include="move.cpp">
+      <Filter>源文件\practice\prac06</Filter>
+    </ClCompile>
+    <ClCompile Include="usemove.cpp">
+      <Filter>源文件\practice\prac06</Filter>
+    </ClCompile>
+    <ClCompile Include="plorga.cpp">
+      <Filter>源文件\practice\prac07</Filter>
+    </ClCompile>
+    <ClCompile Include="useplorga.cpp">
+      <Filter>源文件\practice\prac07</Filter>
+    </ClCompile>
+    <ClCompile Include="golf.cpp">
+      <Filter>源文件\practice\prac03</Filter>
+    </ClCompile>
+    <ClCompile Include="usegolf.cpp">
+      <Filter>源文件\practice\prac03</Filter>
+    </ClCompile>
+    <ClCompile Include="sales.cpp">
+      <Filter>源文件\practice\prac04</Filter>
+    </ClCompile>
+    <ClCompile Include="usesales.cpp">
+      <Filter>源文件\practice\prac04</Filter>
+    </ClCompile>
+    <ClCompile Include="list.cpp">
+      <Filter>源文件\practice\prac08</Filter>
+    </ClCompile>
+    <ClCompile Include="uselist.cpp">
+      <Filter>源文件\practice\prac08</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
